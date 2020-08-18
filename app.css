@@ -1,0 +1,15 @@
+body {
+	background-color: lightblue;
+}
+
+div {
+	display: inline-block;
+	padding-left: auto;
+	padding-right: auto;
+}
+
+button {
+	margin-left: 50%;
+	margin-top: 25%;
+
+}
